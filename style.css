@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color:antiquewhite;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.icons {
+    height: 100px;
+}
+
+a, a:visited {
+    color: maroon;
+    text-decoration: none;  
+}
+
+img {
+    height: 200px;
+}
+
